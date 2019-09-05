@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          iam123 Learning Reacttt123232
+          iam Learning React
         </a>
       </header>
     </div>
